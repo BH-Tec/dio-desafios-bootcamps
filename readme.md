@@ -143,7 +143,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Número em vetores | [🔗](./js/NumerosEmVetores.js) |
 | Os Números São Iguais | [🔗](./js/NumerosIguais.js) |
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
-| Quadrados Perfeitos | [🔗](./js) |
+| Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
 | Soma de Pares Consecutivos | [🔗](./js/SomaParesConsecutivos.js) |
 | Somando Múltiplos | [🔗](./js/SomandoMultiplos.js) |
