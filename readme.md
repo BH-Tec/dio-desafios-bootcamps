@@ -165,6 +165,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Numeral Romano | [🔗](./kotlin/NumeralRomano.kt) |
 | Simplificando a Orientação a Objetos com Kotlin | [🔗](./trainnee-carrefour/Main.kt) |
 | Taxa de Crescimento | [🔗](./kotlin/TaxaCrescimento.kt) |
+| Média Final do Aluno | [🔗](./kotlin/MediaFinal.kt) |
 </details>
 
 <!-- Python -->
