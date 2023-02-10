@@ -161,6 +161,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| Cálculo Salarial | [🔗](./kotlin/CalculoSalarial.kt) |
 | Data por Extenso | [🔗](./kotlin/DataPorExtenso.kt) |
 | Numeral Romano | [🔗](./kotlin/NumeralRomano.kt) |
 | Simplificando a Orientação a Objetos com Kotlin | [🔗](./trainnee-carrefour/Main.kt) |
