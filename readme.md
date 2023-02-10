@@ -122,7 +122,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Busca Sequencial | [🔗](./js/BuscaSequencial.js) |
 | Cálculo Salarial | [🔗](./js/CalculoSalarial.js) |
 | Calculando o Perímetro de um Triângulo Equilátero | [🔗](./js/TrianguloEquilatero.js) |
-| Checagem de Palíndromos | [🔗](./js) |
+| Checagem de Palíndromos | [🔗](./js/ChecagemPalindromos.js) |
 | Conta Espaços e Vogais | [🔗](./js/ContaEspacoVogais.js) |
 | Coxinha de Bueno | [🔗](./js/CoxinhaDoBueno.js) |
 | Data por Extenso | [🔗](./js/DataPorExtenso.js) |
