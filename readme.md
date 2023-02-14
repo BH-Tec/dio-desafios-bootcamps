@@ -127,6 +127,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| A Idade de Magali | [🔗](./js/IdadeMagali.js) |
 | Batmain | [🔗](./js/Batmain.js) |
 | Busca Sequencial | [🔗](./js/BuscaSequencial.js) |
 | Cálculo Salarial | [🔗](./js/CalculoSalarial.js) |
