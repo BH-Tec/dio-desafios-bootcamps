@@ -158,6 +158,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Numeral romano | [🔗](./js/NumeralRomano.js) |
 | Número em vetores | [🔗](./js/NumerosEmVetores.js) |
 | Os Números São Iguais | [🔗](./js/NumerosIguais.js) |
+| Patinhos | [🔗](./js/Patinhos.js) |
 | Pink e Cérebro | [🔗](./js/PinkCerebro.js) |
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
 | Quadrado e ao Cubo | [🔗](./js/QuadradoCubo.js) |
