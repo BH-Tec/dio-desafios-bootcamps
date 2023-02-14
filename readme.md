@@ -159,6 +159,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
 | Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
+| Réveillon de Copacabana | [🔗](./js/ReveillonCopacabana.js) |
 | Soma de Pares Consecutivos | [🔗](./js/SomaParesConsecutivos.js) |
 | Somando Múltiplos | [🔗](./js/SomandoMultiplos.js) |
 | Subtraindo o Produto e a Soma de um Número | [🔗](./js/SubtraindoProdutoSomaNumero.js) |
