@@ -138,6 +138,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
 | Duplicando zeros | [🔗](./js/DuplicandoZeros.js) |
 | Encontrando o Percentual de Desconto | [🔗](./js/PercentualDesconto.js) |
+| Entrada e Saída Lendo e Pulando Nomes | [🔗](./js/PulandoNomes.js) |
 | Fatorial Desajeitado | [🔗](./js/FatorialDesajeitado.js) |
 | FizzBuzz | [🔗](./js/FizzBuzz.js) |
 | Frota de Táxi | [🔗](./js/FrotaDeTaxi.js) |
