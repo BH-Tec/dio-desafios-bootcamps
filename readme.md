@@ -136,6 +136,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Calculando o Perímetro de um Triângulo Equilátero | [🔗](./js/TrianguloEquilatero.js) |
 | Checagem de Palíndromos | [🔗](./js/ChecagemPalindromos.js) |
 | Conta Espaços e Vogais | [🔗](./js/ContaEspacoVogais.js) |
+| Coordenadas de um Ponto | [🔗](./js/CoordenadasDeUmPonto.js) |
 | Coxinha de Bueno | [🔗](./js/CoxinhaDoBueno.js) |
 | Data por Extenso | [🔗](./js/DataPorExtenso.js) |
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
