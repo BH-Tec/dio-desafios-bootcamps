@@ -162,6 +162,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Somando Múltiplos | [🔗](./js/SomandoMultiplos.js) |
 | Subtraindo o Produto e a Soma de um Número | [🔗](./js/SubtraindoProdutoSomaNumero.js) |
 | Tartarugas Ninja | [🔗](./js/TartarugasNinja.js) |
+| Teorema da Divisão Euclidiana | [🔗](./js/TeoremaEuclidiana.js) |
 | Triângulo de Moedas | [🔗](./js/TrianguloDeMoedas.js) |
 | Uma Chamada Recursiva | [🔗](./js/UmaChamadaRecursiva.js) |
 | Validação de Parênteses | [🔗](./js/ValidacaoParenteses.js) |
