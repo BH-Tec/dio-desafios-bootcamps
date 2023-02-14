@@ -170,6 +170,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Tartarugas Ninja | [🔗](./js/TartarugasNinja.js) |
 | Teorema da Divisão Euclidiana | [🔗](./js/TeoremaEuclidiana.js) |
 | Triângulo de Moedas | [🔗](./js/TrianguloDeMoedas.js) |
+| Tuitando | [🔗](./js/Tuitando.js) |
 | Uma Chamada Recursiva | [🔗](./js/UmaChamadaRecursiva.js) |
 | Validação de Parênteses | [🔗](./js/ValidacaoParenteses.js) |
 | Visita na Feira | [🔗](./js/VisitaNaFeira.js) |
