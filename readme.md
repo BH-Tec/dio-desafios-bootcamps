@@ -140,6 +140,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Coxinha de Bueno | [🔗](./js/CoxinhaDoBueno.js) |
 | Data por Extenso | [🔗](./js/DataPorExtenso.js) |
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
+| Distância Entre Dois Pontos | [🔗](./js/DistanciaEntreDoisPontos.js) |
 | Dragão Berrador World | [🔗](./js/DragaoBerradorWorld.js) |
 | Duplicando zeros | [🔗](./js/DuplicandoZeros.js) |
 | Encontrando o Percentual de Desconto | [🔗](./js/PercentualDesconto.js) |
