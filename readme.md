@@ -196,4 +196,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código |
 | :-----: | :----: |
 | Meu Primeiro Código Python | [🔗](./trainnee-carrefour/Main.py) |
+| Tuitando | [🔗](./python/Tuitando.py) |
 </details>
