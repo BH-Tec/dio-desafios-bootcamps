@@ -195,6 +195,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| Aproveite a Oferta | [🔗](./python/AproveiteOferta.py) |
 | Dragão | [🔗](./python/Dragao.py) |
 | Encaixa ou Não? | [🔗](./python/EncaixaOuNao.py) |
 | Mês | [🔗](./python/Mes.py) |
