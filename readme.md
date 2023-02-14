@@ -44,6 +44,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| Assets do Projeto | [🔗](./csharp/AssetsDoProjeto.cs) |
 | Blobs | [🔗](./csharp/Blobs.cs) |
 | Conhecendo a Sintaxe do C# | [🔗](./trainnee-carrefour/Main.cs) |
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
