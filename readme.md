@@ -46,6 +46,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | Blobs | [🔗](./csharp/Blobs.cs) |
 | Conhecendo a Sintaxe do C# | [🔗](./trainnee-carrefour/Main.cs) |
+| Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
