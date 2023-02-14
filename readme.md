@@ -158,6 +158,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Os Números São Iguais | [🔗](./js/NumerosIguais.js) |
 | Pink e Cérebro | [🔗](./js/PinkCerebro.js) |
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
+| Quadrado e ao Cubo | [🔗](./js/QuadradoCubo.js) |
 | Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
 | Réveillon de Copacabana | [🔗](./js/ReveillonCopacabana.js) |
