@@ -53,6 +53,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |
+| Três Divisores | [🔗](./csharp/TresDivisores.cs) |
 </details>
 
 <!-- Java -->
