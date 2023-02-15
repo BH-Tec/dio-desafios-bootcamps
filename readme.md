@@ -27,6 +27,7 @@ Desafios em C#, Java, JavaScript, Kotlin, Python dos Bootcamps da Digital Innova
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" title ="java">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" title ="kotlin">
+    <img src="" alt="php" title ="php">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" title ="python">
 </p>
 
@@ -193,6 +194,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Numeral Romano | [🔗](./kotlin/NumeralRomano.kt) |
 | Simplificando a Orientação a Objetos com Kotlin | [🔗](./trainnee-carrefour/Main.kt) |
 | Taxa de Crescimento | [🔗](./kotlin/TaxaCrescimento.kt) |
+</details>
+
+<!-- PHP -->
+<details>
+<summary><span>PHP</span></summary>
+
+| Desafio | Código |
+| :-----: | :----: |
+| Soma Simples | [🔗](./php/SomaSimples.php) |
 </details>
 
 <!-- Python -->
