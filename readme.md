@@ -51,6 +51,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
+| Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |
 </details>
 
 <!-- Java -->
