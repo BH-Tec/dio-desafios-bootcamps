@@ -202,6 +202,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| Distância | [🔗](./php/Distancia.php) |
 | Salário com Bônus | [🔗](./php/SalarioComBonus.php) |
 | Soma Simples | [🔗](./php/SomaSimples.php) |
 </details>
