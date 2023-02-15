@@ -27,7 +27,7 @@ Desafios em C#, Java, JavaScript, Kotlin, Python dos Bootcamps da Digital Innova
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" title ="java">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" title ="kotlin">
-    <img src="" alt="php" title ="php">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" title ="php">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" title ="python">
 </p>
 
@@ -202,6 +202,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 | Desafio | Código |
 | :-----: | :----: |
+| Salário com Bônus | [🔗](./php/SalarioComBonus.php) |
 | Soma Simples | [🔗](./php/SomaSimples.php) |
 </details>
 
