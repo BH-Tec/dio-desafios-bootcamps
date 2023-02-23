@@ -111,6 +111,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Múltiplos de 13 | [🔗](./java/MultiplosDe13.java) |
 | Nome na Vertical da Escada | [🔗](./java/NomeVerticalNaEscada.java) |
 | Número feliz | [🔗](./java/NumeroFeliz.java) |
+| O Filme | [🔗](./java/Filme.java) |
 | Os números são iguais? | [🔗](./java/OsNumerosSaoIguais.java) |
 | Pedra, Papel, Ataque Aéreo | [🔗](./java/PedraPapelAtaqueAereo.java) |
 | Pontos na Carteira | [🔗](./java/PontosNaCarteira.java) |
