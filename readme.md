@@ -179,6 +179,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Funções na Prática em JavaScript | [🔗](./trainnee-carrefour/Main.js) |
 | Galopeira | [🔗](./js/Galopeira.js) |
 | Idade em Dias | [🔗](./js/IdadeEmDias.js) |
+| Idades | [🔗](./js/Idades.js) |
 | Inteiro ou Decimal? | [🔗](./js/InteiroOuDecimal.js) |
 | Maior Valor Par e Menor Valor Ímpar | [🔗](./js/MaiorValorParMenorValorImpar.js) |
 | Matriz Par e Impar | [🔗](./js/MatrizParOuImpar.js) |
