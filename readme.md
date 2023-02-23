@@ -54,6 +54,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
 | Fórmula de Bhaskara | [🔗](./csharp/FormulaBhaskara.cs) |
+| Ho Ho Ho | [🔗](./csharp/Hohoho.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Média 2 | [🔗](./csharp/Media2.cs) |
 | Mês | [🔗](./csharp/Mes.cs) |
@@ -62,6 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Soma de Pares Consecutivos | [🔗](./csharp/SomaParesConsecutivos.cs) |
 | Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |
+| Tabuada | [🔗](./csharp/Tabuada.cs) |
 | Três Divisores | [🔗](./csharp/TresDivisores.cs) |
 | Triângulo | [🔗](./csharp/Triangulo.cs) |
 </details>
