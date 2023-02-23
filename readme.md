@@ -54,6 +54,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
+| Média 2 | [🔗](./csharp/Media2.cs) |
 | Mês | [🔗](./csharp/Mes.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Quadrado e ao Cubo | [🔗](./csharp/QuadradoCubo.cs) |
