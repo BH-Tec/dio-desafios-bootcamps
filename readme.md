@@ -72,6 +72,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | A fila do banco | [🔗](./java/FilaDoBanco.java) |
 | Animal | [🔗](./java/Animal.java) |
 | Ano Bissexto? | [🔗](./java/AnoBissexto.java) |
+| Área do Círculo | [🔗](./java/AreaCirculo.java) |
 | Arrays Pares | [🔗](./java/ArraysPares.java) |
 | Blobs | [🔗](./java/Blobs.java) |
 | Busca Sequencial | [🔗](./java/BuscaSequencial.java) |
