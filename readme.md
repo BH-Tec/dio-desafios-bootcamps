@@ -51,6 +51,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
+| Mês | [🔗](./csharp/Mes.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |
