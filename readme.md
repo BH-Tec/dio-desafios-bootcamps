@@ -47,6 +47,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | Assets do Projeto | [🔗](./csharp/AssetsDoProjeto.cs) |
 | Blobs | [🔗](./csharp/Blobs.cs) |
+| Compras no Supermercado | [🔗](./csharp/ComprasSupermercado.cs) |
 | Conhecendo a Sintaxe do C# | [🔗](./trainnee-carrefour/Main.cs) |
 | Contagem de Cédulas | [🔗](./csharp/ContagemCedulas.cs) |
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
