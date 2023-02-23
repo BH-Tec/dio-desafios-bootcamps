@@ -133,6 +133,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Triângulo | [🔗](./java/Triangulo.java) |
 | Uma chamada recursiva | [🔗](./java/ChamadaRecursiva.java) |
 | Validação de Parênteses | [🔗](./java/ValidacaoDeParenteses.java) |
+| Visita na Feira | [🔗](./java/VisitaFeira.java) |
 </details>
 
 <!-- JavaScript -->
