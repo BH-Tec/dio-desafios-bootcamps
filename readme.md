@@ -177,6 +177,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | FizzBuzz | [🔗](./js/FizzBuzz.js) |
 | Frota de Táxi | [🔗](./js/FrotaDeTaxi.js) |
 | Funções na Prática em JavaScript | [🔗](./trainnee-carrefour/Main.js) |
+| Galopeira | [🔗](./js/Galopeira.js) |
 | Idade em Dias | [🔗](./js/IdadeEmDias.js) |
 | Inteiro ou Decimal? | [🔗](./js/InteiroOuDecimal.js) |
 | Maior Valor Par e Menor Valor Ímpar | [🔗](./js/MaiorValorParMenorValorImpar.js) |
