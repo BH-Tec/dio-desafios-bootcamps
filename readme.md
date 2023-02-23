@@ -174,6 +174,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Encontrando o Percentual de Desconto | [🔗](./js/PercentualDesconto.js) |
 | Entrada e Saída Lendo e Pulando Nomes | [🔗](./js/PulandoNomes.js) |
 | Fatorial Desajeitado | [🔗](./js/FatorialDesajeitado.js) |
+| Fibonacci Rápido | [🔗](./js/FibonacciRapido.js) |
 | FizzBuzz | [🔗](./js/FizzBuzz.js) |
 | Frota de Táxi | [🔗](./js/FrotaDeTaxi.js) |
 | Funções na Prática em JavaScript | [🔗](./trainnee-carrefour/Main.js) |
