@@ -231,6 +231,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | Animal | [🔗](./python/Animal.py) |
 | Aproveite a Oferta | [🔗](./python/AproveiteOferta.py) |
+| Crescente e Decrescente | [🔗](./python/CrescenteDecrescente.py) |
 | Dragão | [🔗](./python/Dragao.py) |
 | Encaixa ou Não? | [🔗](./python/EncaixaOuNao.py) |
 | Mês | [🔗](./python/Mes.py) |
