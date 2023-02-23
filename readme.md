@@ -81,6 +81,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Classificando Matrizes | [🔗](./java/ClassificandoMatrizes.java) |
 | Contando números pares | [🔗](./java/ContandoNumerosPares.java) |
 | Conta Espaços e Vogais | [🔗](./java/ContaValores.java) |
+| Dama | [🔗](./java/Dama.java) |
 | DC Monalds | [🔗](./java/DCMonalds.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
