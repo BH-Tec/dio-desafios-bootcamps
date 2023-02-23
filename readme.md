@@ -89,6 +89,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Emboscada do RPG | [🔗](./java/EmboscadaRPG.java) |
 | Encotrando o percentual de desconto | [🔗](./java/Percentual.java) |
 | Entrada e Saída Lendo e Pulando Nomes | [🔗](./java/EntradaSaidaLendoEPulandoNomes.java) |
+| Exibindo Números Pares | [🔗](./java/ExibindoNumerosPares.java) |
 | Fábrica de Carros | [🔗](./java/FabricaDeCarros.java) |
 | Fatorial Desajeitado  | [🔗](./java/FatorialDesajeitado.java) |
 | FizzBuzz | [🔗](./java/FizzBuzz.java) |
