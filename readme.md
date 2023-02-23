@@ -189,6 +189,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Patinhos | [🔗](./js/Patinhos.js) |
 | Pink e Cérebro | [🔗](./js/PinkCerebro.js) |
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
+| Preenchimento de Vetor I | [🔗](./js/PreencimentoVetorI.js) |
 | Quadrado e ao Cubo | [🔗](./js/QuadradoCubo.js) |
 | Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
