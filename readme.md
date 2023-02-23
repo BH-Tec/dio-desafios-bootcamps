@@ -110,6 +110,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Multiplicação Simples | [🔗](./java/MultiplicacaoSimples.java) |
 | Múltiplos de 13 | [🔗](./java/MultiplosDe13.java) |
 | Nome na Vertical da Escada | [🔗](./java/NomeVerticalNaEscada.java) |
+| Notação Científica | [🔗](./java/NotacaoCientifica.java) |
 | Notas e Moedas | [🔗](./java/NotasMoedas.java) |
 | Número feliz | [🔗](./java/NumeroFeliz.java) |
 | O Filme | [🔗](./java/Filme.java) |
