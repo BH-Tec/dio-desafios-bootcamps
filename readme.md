@@ -53,6 +53,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Contagem de Cédulas | [🔗](./csharp/ContagemCedulas.cs) |
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
+| Fórmula de Bhaskara | [🔗](./csharp/FormulaBhaskara.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Média 2 | [🔗](./csharp/Media2.cs) |
 | Mês | [🔗](./csharp/Mes.cs) |
