@@ -235,5 +235,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Encaixa ou Não? | [🔗](./python/EncaixaOuNao.py) |
 | Mês | [🔗](./python/Mes.py) |
 | Meu Primeiro Código Python | [🔗](./trainnee-carrefour/Main.py) |
+| Quantidade de Números Positivos | [🔗](./python/QuantidadeNumerosPositivos.py) |
 | Tuitando | [🔗](./python/Tuitando.py) |
 </details>
