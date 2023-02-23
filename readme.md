@@ -237,6 +237,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Mês | [🔗](./python/Mes.py) |
 | Meu Primeiro Código Python | [🔗](./trainnee-carrefour/Main.py) |
 | Número Primo | [🔗](./python/NumeroPrimo.py) |
+| Preenchimento de Vetor I | [🔗](./python/PreenchimentoVetorI.py) |
 | Quantidade de Números Positivos | [🔗](./python/QuantidadeNumerosPositivos.py) |
 | Resto da Divisão | [🔗](./python/RestoDivisao.py) |
 | Tuitando | [🔗](./python/Tuitando.py) |
