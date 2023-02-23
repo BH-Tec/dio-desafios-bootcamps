@@ -59,6 +59,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Média 2 | [🔗](./csharp/Media2.cs) |
 | Mês | [🔗](./csharp/Mes.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
+| Pneu | [🔗](./csharp/Pneu.cs) |
 | Quadrado e ao Cubo | [🔗](./csharp/QuadradoCubo.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Soma de Pares Consecutivos | [🔗](./csharp/SomaParesConsecutivos.cs) |
