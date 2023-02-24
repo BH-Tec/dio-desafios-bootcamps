@@ -251,6 +251,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código |
 | :-----: | :----: |
 | Animal | [🔗](./python/Animal.py) |
+| As Duas Torres | [🔗](./python/AsDuasTorres.py) |
 | Aproveite a Oferta | [🔗](./python/AproveiteOferta.py) |
 | Crescente e Decrescente | [🔗](./python/CrescenteDecrescente.py) |
 | Dragão | [🔗](./python/Dragao.py) |
