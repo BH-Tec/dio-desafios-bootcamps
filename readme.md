@@ -171,6 +171,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | A Idade de Magali | [🔗](./js/IdadeMagali.js) |
 | Arrays Pares | [🔗](./js/ArraysPares.js) |
+| Aumento de Salário | [🔗](./js/AumentoDeSalario.js) |
 | Batmain | [🔗](./js/Batmain.js) |
 | Busca Sequencial | [🔗](./js/BuscaSequencial.js) |
 | Cálculo Salarial | [🔗](./js/CalculoSalarial.js) |
