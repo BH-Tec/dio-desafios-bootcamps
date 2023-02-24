@@ -200,6 +200,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Número em vetores | [🔗](./js/NumerosEmVetores.js) |
 | Os Números São Iguais | [🔗](./js/NumerosIguais.js) |
 | Patinhos | [🔗](./js/Patinhos.js) |
+| Pedra, Papel, Ataque Aéreo | [🔗](./js/PedraPapelAtaqueAereo.js) |
 | Pink e Cérebro | [🔗](./js/PinkCerebro.js) |
 | Porcentagem de diferença entre dois números | [🔗](./js/PorcentagemDiferenca.js) |
 | Preenchimento de Vetor I | [🔗](./js/PreencimentoVetorI.js) |
