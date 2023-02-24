@@ -78,6 +78,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código |
 | :-----: | :----: |
 | A fila do banco | [🔗](./java/FilaDoBanco.java) |
+| A Mudança | [🔗](./java/Mudanca.java) |
 | Animal | [🔗](./java/Animal.java) |
 | Ano Bissexto? | [🔗](./java/AnoBissexto.java) |
 | Área Direita | [🔗](./java/AreaDireita.java) |
