@@ -95,8 +95,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Contando números pares | [🔗](./java/ContandoNumerosPares.java) |
 | Conta Espaços e Vogais | [🔗](./java/ContaValores.java) |
 | Coxinha de Bueno | [🔗](./java/CoxinhaDeBueno.java) |
-| Dama | [🔗](./java/Dama.java) |
 | DC Monalds | [🔗](./java/DCMonalds.java) |
+| Degustação de Vinho | [🔗](./java/DegustacaoVinho.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
 | Download de Pacotes | [🔗](./java/DownloadDePacotes.java) |
