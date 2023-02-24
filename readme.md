@@ -137,6 +137,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | O Tabuleiro Secreto | [🔗](./java/TabuleiroSecreto.java) |
 | Os números são iguais? | [🔗](./java/OsNumerosSaoIguais.java) |
 | Pedra, Papel, Ataque Aéreo | [🔗](./java/PedraPapelAtaqueAereo.java) |
+| Percentual de Eleitores | [🔗](./java/PercentualDeEleitores.java) |
 | Pneu | [🔗](./java/Pneu.java) |
 | Pontos na Carteira | [🔗](./java/PontosNaCarteira.java) |
 | Preenchimento de Vetor II | [🔗](./java/PreenchimentoDeVetor.java) |
