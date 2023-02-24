@@ -99,6 +99,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Degustação de Vinho | [🔗](./java/DegustacaoVinho.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
+| Dominó | [🔗](./java/Domino.java) |
 | Download de Pacotes | [🔗](./java/DownloadDePacotes.java) |
 | Dragão | [🔗](./java/Dragao.java) |
 | Dragão Berrador World | [🔗](./java/DragaoBerradorWorld.java) |
