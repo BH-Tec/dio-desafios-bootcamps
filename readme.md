@@ -171,6 +171,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | A Idade de Magali | [🔗](./js/IdadeMagali.js) |
 | As Duas Torres | [🔗](./js/AsDuasTorres.js) |
+| Área do Círculo | [🔗](./js/AreaCirculo.js) |
 | Arrays Pares | [🔗](./js/ArraysPares.js) |
 | Aumento de Salário | [🔗](./js/AumentoDeSalario.js) |
 | Batmain | [🔗](./js/Batmain.js) |
