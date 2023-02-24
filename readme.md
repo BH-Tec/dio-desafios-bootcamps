@@ -186,6 +186,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Fibonacci Rápido | [🔗](./js/FibonacciRapido.js) |
 | FizzBuzz | [🔗](./js/FizzBuzz.js) |
 | Frota de Táxi | [🔗](./js/FrotaDeTaxi.js) |
+| Fuso Horário | [🔗](./js/FusoHorario.js) |
 | Funções na Prática em JavaScript | [🔗](./trainnee-carrefour/Main.js) |
 | Galopeira | [🔗](./js/Galopeira.js) |
 | Idade em Dias | [🔗](./js/IdadeEmDias.js) |
