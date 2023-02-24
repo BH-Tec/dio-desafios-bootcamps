@@ -184,6 +184,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Data por Extenso | [🔗](./js/DataPorExtenso.js) |
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
 | Distância Entre Dois Pontos | [🔗](./js/DistanciaEntreDoisPontos.js) |
+| Divisores I | [🔗](./js/DivisoresI.js) |
 | Dragão Berrador World | [🔗](./js/DragaoBerradorWorld.js) |
 | Duplicando zeros | [🔗](./js/DuplicandoZeros.js) |
 | Dominó | [🔗](./js/Domino.js) |
