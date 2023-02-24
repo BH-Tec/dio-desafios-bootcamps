@@ -179,6 +179,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Distância Entre Dois Pontos | [🔗](./js/DistanciaEntreDoisPontos.js) |
 | Dragão Berrador World | [🔗](./js/DragaoBerradorWorld.js) |
 | Duplicando zeros | [🔗](./js/DuplicandoZeros.js) |
+| Dominó | [🔗](./js/Domino.js) |
 | Encontrando o Percentual de Desconto | [🔗](./js/PercentualDesconto.js) |
 | Entrada e Saída Lendo e Pulando Nomes | [🔗](./js/PulandoNomes.js) |
 | Fatorial Desajeitado | [🔗](./js/FatorialDesajeitado.js) |
