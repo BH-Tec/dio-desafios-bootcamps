@@ -99,6 +99,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
 | Download de Pacotes | [🔗](./java/DownloadDePacotes.java) |
 | Dragão | [🔗](./java/Dragao.java) |
+| Dragão Berrador World | [🔗](./java/DragaoBerradorWorld.java) |
 | Emboscada do RPG | [🔗](./java/EmboscadaRPG.java) |
 | Encotrando o percentual de desconto | [🔗](./java/Percentual.java) |
 | Entrada e Saída Lendo e Pulando Nomes | [🔗](./java/EntradaSaidaLendoEPulandoNomes.java) |
