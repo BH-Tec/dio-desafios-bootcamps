@@ -84,6 +84,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Área do Círculo | [🔗](./java/AreaCirculo.java) |
 | Arrays Pares | [🔗](./java/ArraysPares.java) |
 | Blobs | [🔗](./java/Blobs.java) |
+| Bob Conduite | [🔗](./java/BobConduite.java) |
 | Busca Sequencial | [🔗](./java/BuscaSequencial.java) |
 | Camarote do Blue Cold Ice Cubes | [🔗](./java/CamaroteDoBlueColdIceCubes.java) |
 | Cálculo Simples | [🔗](./java/CalculoSimples.java) |
