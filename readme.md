@@ -136,6 +136,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Quantidade necessária | [🔗](./java/QuantidadeNecessaria.java) |
 | Quitanda do Seu Zé | [🔗](./java/QuitandaDoSeuZe.java) |
 | Reduzindo um número a zero | [🔗](./java/ReduzindoNumeroAZero.java) |
+| Reservatório de Mel | [🔗](./java/ReservatorioDeMel.java) |
 | Robô | [🔗](./java/Robo.java) |
 | Salvando Músicas | [🔗](./java/SalvandoMusicas.java) |
 | Seus Primeiros Ifs com Java | [🔗](./trainnee-carrefour/Main.java) |
