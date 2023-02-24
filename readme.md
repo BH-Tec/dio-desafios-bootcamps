@@ -146,6 +146,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Reservatório de Mel | [🔗](./java/ReservatorioDeMel.java) |
 | Robô | [🔗](./java/Robo.java) |
 | Salvando Músicas | [🔗](./java/SalvandoMusicas.java) |
+| Seleção de Índice do Vetor | [🔗](./java/SelecaoIndiceDoVetor.java) |
 | Seus Primeiros Ifs com Java | [🔗](./trainnee-carrefour/Main.java) |
 | Soma de H com N Termos | [🔗](./java/SomaDeValores.java) |
 | Soma Simples | [🔗](./java/SomaSimples.java) |
