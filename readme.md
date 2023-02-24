@@ -97,6 +97,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Coxinha de Bueno | [🔗](./java/CoxinhaDeBueno.java) |
 | DC Monalds | [🔗](./java/DCMonalds.java) |
 | Degustação de Vinho | [🔗](./java/DegustacaoVinho.java) |
+| Deu a louca no Gerente | [🔗](./java/GerenteLouco.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
 | Dominó | [🔗](./java/Domino.java) |
