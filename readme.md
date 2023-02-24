@@ -252,6 +252,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----: | :----: |
 | Alfabeto | [🔗](./python/Alfabeto.py) |
 | Animal | [🔗](./python/Animal.py) |
+| Aumento Salarial | [🔗](./python/AumentoSalarial.py) |
 | As Duas Torres | [🔗](./python/AsDuasTorres.py) |
 | Aproveite a Oferta | [🔗](./python/AproveiteOferta.py) |
 | Cachorros-Quentes | [🔗](./python/CachorrosQuentes.py) |
