@@ -302,4 +302,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código |
 | :-----: | :----: |
 | Soma dois | [🔗](./ruby/SomaDois.ru) |
+| Temperatura Amena | [🔗](./ruby/TemperaturaAmena.ru) |
 </details>
