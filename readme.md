@@ -227,6 +227,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Réveillon de Copacabana | [🔗](./js/ReveillonCopacabana.js) |
 | Saída 1 | [🔗](./js/Saida1.js) |
 | Sequência S | [🔗](./js/SequenciaS.js) |
+| Soma de números naturais | [🔗](./js/SomaNumerosNaturais.js) |
 | Soma de Pares Consecutivos | [🔗](./js/SomaParesConsecutivos.js) |
 | Somando Múltiplos | [🔗](./js/SomandoMultiplos.js) |
 | Subtraindo o Produto e a Soma de um Número | [🔗](./js/SubtraindoProdutoSomaNumero.js) |
