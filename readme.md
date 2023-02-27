@@ -191,6 +191,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
 | Distância Entre Dois Pontos | [🔗](./js/DistanciaEntreDoisPontos.js) |
 | Divisores I | [🔗](./js/DivisoresI.js) |
+| Dragão | [🔗](./js/Dragao.js) |
 | Dragão Berrador World | [🔗](./js/DragaoBerradorWorld.js) |
 | Duplicando zeros | [🔗](./js/DuplicandoZeros.js) |
 | Dominó | [🔗](./js/Domino.js) |

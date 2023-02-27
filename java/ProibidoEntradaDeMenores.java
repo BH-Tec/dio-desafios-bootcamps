@@ -13,7 +13,7 @@
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.*;
 
-public class DIO {
+public class ProibidoEntradaDeMenores {
 
   public static void main(String[] args) {
 
