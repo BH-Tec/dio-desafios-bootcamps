@@ -96,6 +96,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Conta Espaços e Vogais | [🔗](./java/ContaValores.java) |
 | Coxinha de Bueno | [🔗](./java/CoxinhaDeBueno.java) |
 | DC Monalds | [🔗](./java/DCMonalds.java) |
+| De Quem é a Vez? | [🔗](./java/DeQuemEAVez.java) |
 | Degustação de Vinho | [🔗](./java/DegustacaoVinho.java) |
 | Deu a louca no Gerente | [🔗](./java/GerenteLouco.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
