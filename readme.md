@@ -106,6 +106,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Download de Pacotes | [🔗](./java/DownloadDePacotes.java) |
 | Dragão | [🔗](./java/Dragao.java) |
 | Dragão Berrador World | [🔗](./java/DragaoBerradorWorld.java) |
+| Duas Notas | [🔗](./java/DuasNotas.java) |
 | Emboscada do RPG | [🔗](./java/EmboscadaRPG.java) |
 | Encotrando o percentual de desconto | [🔗](./java/Percentual.java) |
 | Entrada e Saída Lendo e Pulando Nomes | [🔗](./java/EntradaSaidaLendoEPulandoNomes.java) |
