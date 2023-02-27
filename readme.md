@@ -100,6 +100,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Deu a louca no Gerente | [🔗](./java/GerenteLouco.java) |
 | Descubra o menor múltiplo | [🔗](./java/MenorNumero.java) |
 | Diferença entre dígitos | [🔗](./java/DiferencaEntreDigitos.java) |
+| Distância Entre Dois Pontos | [🔗](./java/DistanciaEntreDoisPontos.java) |
 | Dominó | [🔗](./java/Domino.java) |
 | Download de Pacotes | [🔗](./java/DownloadDePacotes.java) |
 | Dragão | [🔗](./java/Dragao.java) |
