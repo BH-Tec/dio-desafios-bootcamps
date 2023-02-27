@@ -294,3 +294,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Resto da Divisão | [🔗](./python/RestoDivisao.py) |
 | Tuitando | [🔗](./python/Tuitando.py) |
 </details>
+
+<!-- Ruby -->
+<details>
+<summary><span>Ruby</span></summary>
+
+| Desafio | Código |
+| :-----: | :----: |
+| Soma dois | [🔗](./ruby/SomaDois.ru) |
+</details>
