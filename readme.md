@@ -141,6 +141,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Pneu | [🔗](./java/Pneu.java) |
 | Pontos na Carteira | [🔗](./java/PontosNaCarteira.java) |
 | Preenchimento de Vetor II | [🔗](./java/PreenchimentoDeVetor.java) |
+| Proibido a entrada de menores! | [🔗](./java/ProibidoEntradaDeMenores.java) |
 | Quadrante | [🔗](./java/Quadrante.java) |
 | Qual é o seu turno? | [🔗](./java/QualSeuTurno.java) |
 | Quantidade necessária | [🔗](./java/QuantidadeNecessaria.java) |
