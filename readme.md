@@ -58,6 +58,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Ho Ho Ho | [🔗](./csharp/Hohoho.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Média 2 | [🔗](./csharp/Media2.cs) |
+| Média 3 | [🔗](./csharp/Media3.cs)
 | Mês | [🔗](./csharp/Mes.cs) |
 | Multiplicação Simples | [🔗](./csharp/MultiplicacaoSimples.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
