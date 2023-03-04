@@ -1,3 +1,4 @@
+/* The question. */
 <h1 align="center">
   Desafios de Código | DIO
 </h1>
@@ -63,8 +64,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Multiplicação Simples | [🔗](./csharp/MultiplicacaoSimples.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
 | Polígonos Regulares Simples | [🔗](./csharp/PoligonosRegularesSimples.cs) |
-| Pum | [🔗](./csharp/Pum.cs) |
+| Pink e Cérebro | [🔗](./csharp/PinkCerebro.cs) |
 | Pneu | [🔗](./csharp/Pneu.cs) |
+| Pum | [🔗](./csharp/Pum.cs) |
 | Quadrado e ao Cubo | [🔗](./csharp/QuadradoCubo.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Soma de Pares Consecutivos | [🔗](./csharp/SomaParesConsecutivos.cs) |
