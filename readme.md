@@ -184,6 +184,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | As Duas Torres | [🔗](./js/AsDuasTorres.js) |
 | Área do Círculo | [🔗](./js/AreaCirculo.js) |
 | Arrays Pares | [🔗](./js/ArraysPares.js) |
+| Avaliando Restaurantes | [🔗](./js/AvaliandoRestaurantes.js) |
 | Aumento de Salário | [🔗](./js/AumentoDeSalario.js) |
 | Batmain | [🔗](./js/Batmain.js) |
 | Busca Sequencial | [🔗](./js/BuscaSequencial.js) |
