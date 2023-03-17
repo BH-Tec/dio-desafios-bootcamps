@@ -186,6 +186,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Aumento de Salário | [🔗](./js/AumentoDeSalario.js) |
 | Batmain | [🔗](./js/Batmain.js) |
 | Busca Sequencial | [🔗](./js/BuscaSequencial.js) |
+| Calcular o Preço Final de um Pedido | [🔗](./js/CalcularPrecoFinal.js) |
 | Cálculo Salarial | [🔗](./js/CalculoSalarial.js) |
 | Cálculo Simples | [🔗](./js/CalculoSimples.js) |
 | Calculando o Perímetro de um Triângulo Equilátero | [🔗](./js/TrianguloEquilatero.js) |
