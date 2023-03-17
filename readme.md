@@ -213,6 +213,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Fuso Horário | [🔗](./js/FusoHorario.js) |
 | Funções na Prática em JavaScript | [🔗](./trainnee-carrefour/Main.js) |
 | Galopeira | [🔗](./js/Galopeira.js) |
+| Ganhe uma Sobremesa Especial! | [🔗](./js/GanheSobremesaEspecial.js) |
 | Idade em Dias | [🔗](./js/IdadeEmDias.js) |
 | Idades | [🔗](./js/Idades.js) |
 | Inteiro ou Decimal? | [🔗](./js/InteiroOuDecimal.js) |
