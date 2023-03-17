@@ -180,6 +180,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código |
 | :-----: | :----: |
 | A Idade de Magali | [🔗](./js/IdadeMagali.js) |
+| Acompanhado os Pedidos | [🔗](./js/AcompanhadoPedidos.js) |
 | As Duas Torres | [🔗](./js/AsDuasTorres.js) |
 | Área do Círculo | [🔗](./js/AreaCirculo.js) |
 | Arrays Pares | [🔗](./js/ArraysPares.js) |
