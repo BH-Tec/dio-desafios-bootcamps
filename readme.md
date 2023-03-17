@@ -30,6 +30,7 @@ Desafios em C#, Java, JavaScript, Kotlin, Python dos Bootcamps da Digital Innova
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" title ="kotlin">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" title ="php">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" title ="python">
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" title ="ruby">
 </p>
 
 ## 📝 License
@@ -93,8 +94,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Blobs | [🔗](./java/Blobs.java) |
 | Bob Conduite | [🔗](./java/BobConduite.java) |
 | Busca Sequencial | [🔗](./java/BuscaSequencial.java) |
-| Camarote do Blue Cold Ice Cubes | [🔗](./java/CamaroteDoBlueColdIceCubes.java) |
 | Cálculo Simples | [🔗](./java/CalculoSimples.java) |
+| Camarote do Blue Cold Ice Cubes | [🔗](./java/CamaroteDoBlueColdIceCubes.java) |
 | Checagem de palíndromo | [🔗](./java/ChecagemDePalindromos.java) |
 | Classificando Matrizes | [🔗](./java/ClassificandoMatrizes.java) |
 | Contando números pares | [🔗](./java/ContandoNumerosPares.java) |
@@ -239,6 +240,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Somando Múltiplos | [🔗](./js/SomandoMultiplos.js) |
 | Subtraindo o Produto e a Soma de um Número | [🔗](./js/SubtraindoProdutoSomaNumero.js) |
 | Tartarugas Ninja | [🔗](./js/TartarugasNinja.js) |
+| Tempo Estimado de Entrega | [🔗](./js/TempoEstimadoEntrega.js) |
 | Teorema da Divisão Euclidiana | [🔗](./js/TeoremaEuclidiana.js) |
 | Triângulo de Moedas | [🔗](./js/TrianguloDeMoedas.js) |
 | Tri-Du | [🔗](./js/Tri-Du.js) |
