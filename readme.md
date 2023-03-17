@@ -192,6 +192,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Cálculo Simples | [🔗](./js/CalculoSimples.js) |
 | Calculando o Perímetro de um Triângulo Equilátero | [🔗](./js/TrianguloEquilatero.js) |
 | Checagem de Palíndromos | [🔗](./js/ChecagemPalindromos.js) |
+| Comparando Pedidos | [🔗](./js/ComparandoPedidos.js) |
 | Conta Espaços e Vogais | [🔗](./js/ContaEspacoVogais.js) |
 | Contagem de Partidas no Torneio | [🔗](./js/ContagemPartidasTorneio.js) |
 | Coordenadas de um Ponto | [🔗](./js/CoordenadasDeUmPonto.js) |
