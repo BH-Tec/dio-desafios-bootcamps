@@ -139,6 +139,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Média de idade | [🔗](./java/MediaIdade.java) |
 | Mesada do Sobrinho | [🔗](./java/MesadaDoSobrinho.java) |
 | Mjölnir | [🔗](./java/Mjolnir.java) |
+| Mudança para Irlanda | [🔗](./java/MudancaIrlanda.java) |
 | Multiplicação Simples | [🔗](./java/MultiplicacaoSimples.java) |
 | Múltiplos de 13 | [🔗](./java/MultiplosDe13.java) |
 | Nome na Vertical da Escada | [🔗](./java/NomeVerticalNaEscada.java) |
