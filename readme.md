@@ -45,8 +45,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>C#</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | Assets do Projeto | [🔗](./csharp/AssetsDoProjeto.cs) |
 | Blobs | [🔗](./csharp/Blobs.cs) |
 | Cálculo Simples | [🔗](./csharp/CalculoSimples.cs) |
@@ -81,8 +81,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Java</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | A fila do banco | [🔗](./java/FilaDoBanco.java) |
 | A Mudança | [🔗](./java/Mudanca.java) |
 | Álbum da Copa | [🔗](./java/AlbumCopa.java) |
@@ -98,7 +98,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Camarote do Blue Cold Ice Cubes | [🔗](./java/CamaroteDoBlueColdIceCubes.java) |
 | Checagem de palíndromo | [🔗](./java/ChecagemDePalindromos.java) |
 | Classificando Matrizes | [🔗](./java/ClassificandoMatrizes.java) |
-| Compras na Livraria | [🔗](./java/ComprasLivraria.java) |
+| Compras na Livraria | [🔗](./java/ComprasLivraria.java) | 42.58 pts |
 | Contando números pares | [🔗](./java/ContandoNumerosPares.java) |
 | Conta Espaços e Vogais | [🔗](./java/ContaValores.java) |
 | Coxinha de Bueno | [🔗](./java/CoxinhaDeBueno.java) |
@@ -125,9 +125,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | FizzBuzz | [🔗](./java/FizzBuzz.java) |
 | Fibonacci Fácil | [🔗](./java/FibonacciFacil.java) |
 | Flecha, escudo ou espada | [🔗](./java/FlechaEscudoOuEspada.java) |
-| Gerenciamento de Loja Geek | [🔗](./java/GerenciamentoLojaGeek.java) |
+| Gerenciamento de Loja Geek | [🔗](./java/GerenciamentoLojaGeek.java) | 43.90 pts |
 | Idades | [🔗](./java/Idades.java) |
-| Idade Planetária | [🔗](./java/IdadePlanetaria.java) |
+| Idade Planetária | [🔗](./java/IdadePlanetaria.java) | 40.97 pts |
 | Intervalo | [🔗](./java/Intervalo.java) |
 | Imóveis Disponíveis | [🔗](./java/ImoveisDisponiveis.java) |
 | Imprimindo Positivos e Média | [🔗](./java/ImprimindoValores.java) |
@@ -139,7 +139,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Média de idade | [🔗](./java/MediaIdade.java) |
 | Mesada do Sobrinho | [🔗](./java/MesadaDoSobrinho.java) |
 | Mjölnir | [🔗](./java/Mjolnir.java) |
-| Mudança para Irlanda | [🔗](./java/MudancaIrlanda.java) |
+| Mudança para Irlanda | [🔗](./java/MudancaIrlanda.java) | 43.64 pts |
 | Multiplicação Simples | [🔗](./java/MultiplicacaoSimples.java) |
 | Múltiplos de 13 | [🔗](./java/MultiplosDe13.java) |
 | Nome na Vertical da Escada | [🔗](./java/NomeVerticalNaEscada.java) |
@@ -171,7 +171,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Taxa de Crescimento | [🔗](./java/TaxaDeCrescimento.java) |
 | Taxa de Imposto de Renda | [🔗](./java/TaxaIR.java) |
 | Tempo de Download | [🔗](./java/TempoDeDownload.java) |
-| Tráfego de Trânsito | [🔗](./java/TrafegoTransito.java) |
+| Tráfego de Trânsito | [🔗](./java/TrafegoTransito.java) | 41.51 pts |
 | Triângulo | [🔗](./java/Triangulo.java) |
 | Uma chamada recursiva | [🔗](./java/ChamadaRecursiva.java) |
 | Validação de Parênteses | [🔗](./java/ValidacaoDeParenteses.java) |
@@ -182,8 +182,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>JavaScript</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | A Idade de Magali | [🔗](./js/IdadeMagali.js) |
 | Acompanhado os Pedidos | [🔗](./js/AcompanhadoPedidos.js) |
 | As Duas Torres | [🔗](./js/AsDuasTorres.js) |
@@ -269,22 +269,22 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Kotlin</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
-| Cálculo Salarial | [🔗](./kotlin/CalculoSalarial.kt) |
-| Data por Extenso | [🔗](./kotlin/DataPorExtenso.kt) |
-| Média Final do Aluno | [🔗](./kotlin/MediaFinal.kt) |
-| Numeral Romano | [🔗](./kotlin/NumeralRomano.kt) |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
+| Cálculo Salarial | [🔗](./kotlin/CalculoSalarial.kt) | 38.20 pts |
+| Data por Extenso | [🔗](./kotlin/DataPorExtenso.kt) | 43.94 pts |
+| Média Final do Aluno | [🔗](./kotlin/MediaFinal.kt) | 45.70 pts |
+| Numeral Romano | [🔗](./kotlin/NumeralRomano.kt) | 48.64 pts |
 | Simplificando a Orientação a Objetos com Kotlin | [🔗](./trainnee-carrefour/Main.kt) |
-| Taxa de Crescimento | [🔗](./kotlin/TaxaCrescimento.kt) |
+| Taxa de Crescimento | [🔗](./kotlin/TaxaCrescimento.kt) | 48.09 pts |
 </details>
 
 <!-- PHP -->
 <details>
 <summary><span>PHP</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | Distância | [🔗](./php/Distancia.php) |
 | Salário com Bônus | [🔗](./php/SalarioComBonus.php) |
 | Soma Simples | [🔗](./php/SomaSimples.php) |
@@ -294,8 +294,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Python</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | Alfabeto | [🔗](./python/Alfabeto.py) |
 | Animal | [🔗](./python/Animal.py) |
 | Aumento Salarial | [🔗](./python/AumentoSalarial.py) |
@@ -320,8 +320,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Ruby</span></summary>
 
-| Desafio | Código |
-| :-----: | :----: |
+| Desafio | Código | SQ |
+| :-----: | :----: | :--: |
 | Qual Número é o Maior | [🔗](./ruby/QualNumeroMaior.ru) |
 | Soma dois | [🔗](./ruby/SomaDois.ru) |
 | Temperatura Amena | [🔗](./ruby/TemperaturaAmena.ru) |
