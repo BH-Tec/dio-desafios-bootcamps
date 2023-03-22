@@ -126,6 +126,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Fibonacci Fácil | [🔗](./java/FibonacciFacil.java) |
 | Flecha, escudo ou espada | [🔗](./java/FlechaEscudoOuEspada.java) |
 | Idades | [🔗](./java/Idades.java) |
+| Idade Planetária | [🔗](./java/IdadePlanetaria.java) |
 | Intervalo | [🔗](./java/Intervalo.java) |
 | Imóveis Disponíveis | [🔗](./java/ImoveisDisponiveis.java) |
 | Imprimindo Positivos e Média | [🔗](./java/ImprimindoValores.java) |
