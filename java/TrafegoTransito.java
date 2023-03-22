@@ -1,0 +1,51 @@
+// Desafio
+// Crie um programa que simule o comportamento de um semáforo. O usuário deverá inserir um número correspondente à cor do semáforo (1 para vermelho, 2 para amarelo, 3 para verde), e o programa deve imprimir uma mensagem indicando qual a ação que deve ser tomada com base na cor selecionada.
+
+// Para isso, utilize estruturas de controle de fluxo, como a instrução if-else if para tomar decisões com base no valor de entrada do usuário.
+
+// Entrada
+// O programa espera um número inteiro correspondente à cor do semáforo (1 para vermelho, 2 para amarelo, 3 para verde). O usuário deve inserir esse número através do teclado e pressionar Enter para confirmar a entrada.
+
+// Saída
+// O programa imprime uma mensagem na tela informando qual a ação que deve ser tomada, com base no número inserido:
+
+// Se o número for 1, o sinal está vermelho e o programa deve imprimir "Pare! O sinal está vermelho."
+// Se o número for 2, o sinal está amarelo e o programa deve imprimir "Atenção! O sinal está amarelo."
+// Se o número for 3, o sinal está verde e o programa deve imprimir "Siga em frente! O sinal está verde."
+// Se o número não for 1, 2 ou 3, o programa deve imprimir "Valor inválido! Digite 1, 2 ou 3 para indicar a cor do semáforo."
+// Exemplos
+// A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis
+
+// Entrada	              Saída
+// 1	Pare!               O sinal esta vermelho.
+// 2	Atencao!            O sinal esta amarelo.
+// 3	Siga em frente!     O sinal esta verde.
+// 8	Valor invalido!     Digite 1, 2 ou 3 para indicar a cor do semaforo.
+// -1	Valor invalido!     Digite 1, 2 ou 3 para indicar a cor do semaforo.
+// 0	Valor invalido!     Digite 1, 2 ou 3 para indicar a cor do semaforo.
+
+// Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma: 
+// - new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";
+// - System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.
+
+import java.util.Scanner;
+
+public class TrafegoTransito {
+
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    int numero = scanner.nextInt();
+
+    // TODO: Crie as condições necessárias para imprimir cada uma das possíveis
+    // saídas.
+    if (numero == 1) {
+      System.out.println("Pare! O sinal esta vermelho.");
+    } else if (numero == 2) {
+      System.out.println("Atencao! O sinal esta amarelo.");
+    } else if (numero == 3) {
+      System.out.println("Siga em frente! O sinal esta verde.");
+    } else {
+      System.out.println("Valor invalido! Digite 1, 2 ou 3 para indicar a cor do semaforo.");
+    }
+  }
+}

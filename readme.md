@@ -167,6 +167,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Taxa de Crescimento | [🔗](./java/TaxaDeCrescimento.java) |
 | Taxa de Imposto de Renda | [🔗](./java/TaxaIR.java) |
 | Tempo de Download | [🔗](./java/TempoDeDownload.java) |
+| Tráfego de Trânsito | [🔗](./java/TrafegoTransito.java) |
 | Triângulo | [🔗](./java/Triangulo.java) |
 | Uma chamada recursiva | [🔗](./java/ChamadaRecursiva.java) |
 | Validação de Parênteses | [🔗](./java/ValidacaoDeParenteses.java) |
