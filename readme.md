@@ -98,6 +98,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Camarote do Blue Cold Ice Cubes | [🔗](./java/CamaroteDoBlueColdIceCubes.java) |
 | Checagem de palíndromo | [🔗](./java/ChecagemDePalindromos.java) |
 | Classificando Matrizes | [🔗](./java/ClassificandoMatrizes.java) |
+| Compras na Livraria | [🔗](./java/ComprasLivraria.java) |
 | Contando números pares | [🔗](./java/ContandoNumerosPares.java) |
 | Conta Espaços e Vogais | [🔗](./java/ContaValores.java) |
 | Coxinha de Bueno | [🔗](./java/CoxinhaDeBueno.java) |
