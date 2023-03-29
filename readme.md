@@ -247,6 +247,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Quadrado e ao Cubo | [🔗](./js/QuadradoCubo.js) |
 | Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
+| Rendimento por Mês | [🔗](./js/RendimentoPorMes.js) |
 | Réveillon de Copacabana | [🔗](./js/ReveillonCopacabana.js) |
 | Saída 1 | [🔗](./js/Saida1.js) |
 | Sequência S | [🔗](./js/SequenciaS.js) |
