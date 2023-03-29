@@ -246,6 +246,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Preenchimento de Vetor I | [🔗](./js/PreencimentoVetorI.js) |
 | Quadrado e ao Cubo | [🔗](./js/QuadradoCubo.js) |
 | Quadrados Perfeitos | [🔗](./js/QuadradosPerfeitos.js) |
+| Qual o Maior Rendimento | [🔗](./js/QualMaiorRendimento.js) |
 | Removendo letras duplicadas | [🔗](./js/RemovendoLetrasDuplicadas.js) |
 | Rendimento por Mês | [🔗](./js/RendimentoPorMes.js) |
 | Réveillon de Copacabana | [🔗](./js/ReveillonCopacabana.js) |
