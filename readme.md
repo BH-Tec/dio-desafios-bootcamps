@@ -78,6 +78,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Tabuada | [🔗](./csharp/Tabuada.cs) |
 | Três Divisores | [🔗](./csharp/TresDivisores.cs) |
 | Triângulo | [🔗](./csharp/Triangulo.cs) |
+| Validação de Nota | [🔗](./csharp/ValidacaoDeNota.cs) |
 </details>
 
 <!-- Java -->
