@@ -58,6 +58,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
 | Fórmula de Bhaskara | [🔗](./csharp/FormulaBhaskara.cs) |
 | Ho Ho Ho | [🔗](./csharp/Hohoho.cs) |
+| Idade em Dias | [🔗](./csharp/IdadeEmDias.cs) |
 | Levou dano na Armadilha? | [🔗](./csharp/LevouDano.cs) |
 | Média 2 | [🔗](./csharp/Media2.cs) |
 | Média 3 | [🔗](./csharp/Media3.cs)
