@@ -66,9 +66,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Mês | [🔗](./csharp/Mes.cs) |
 | Multiplicação Simples | [🔗](./csharp/MultiplicacaoSimples.cs) |
 | Múltiplos de 13 | [🔗](./csharp/MultiplosDe13.cs) |
-| Polígonos Regulares Simples | [🔗](./csharp/PoligonosRegularesSimples.cs) |
+| Pedro Bento e o Mundo de OZ | [🔗](./csharp/PedroBentoEOMundoDeOz.cs) |
 | Pink e Cérebro | [🔗](./csharp/PinkCerebro.cs) |
 | Pneu | [🔗](./csharp/Pneu.cs) |
+| Polígonos Regulares Simples | [🔗](./csharp/PoligonosRegularesSimples.cs) |
 | Pum | [🔗](./csharp/Pum.cs) |
 | Quadrado e ao Cubo | [🔗](./csharp/QuadradoCubo.cs) |
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
