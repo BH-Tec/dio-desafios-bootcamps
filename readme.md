@@ -54,6 +54,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Conhecendo a Sintaxe do C# | [🔗](./trainnee-carrefour/Main.cs) |
 | Contagem de Cédulas | [🔗](./csharp/ContagemCedulas.cs) |
 | Conversa no Bolão | [🔗](./csharp/ConversaNoBalao.cs) |
+| Conversão de Tempo | [🔗](./csharp/ConversaoDeTempo.cs) |
 | Coxinha do Bueno | [🔗](./csharp/CoxinhaDoBueno.cs) |
 | Encaixa ou Não? | [🔗](./csharp/EncaixaOuNao.cs) |
 | Fórmula de Bhaskara | [🔗](./csharp/FormulaBhaskara.cs) |
