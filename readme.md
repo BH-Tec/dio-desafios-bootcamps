@@ -74,6 +74,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Quadrante | [🔗](./csharp/Quadrante.cs) |
 | Soma de Pares Consecutivos | [🔗](./csharp/SomaParesConsecutivos.cs) |
 | Subtraindo o produto e a soma de um número inteiro | [🔗](./csharp/SubtraindoOProdutoEASomaDeUmNumeroInteiro.cs) |
+| Tempo do Dobby | [🔗](./csharp/TempoDoDobby.cs) |
 | Tabuada | [🔗](./csharp/Tabuada.cs) |
 | Três Divisores | [🔗](./csharp/TresDivisores.cs) |
 | Triângulo | [🔗](./csharp/Triangulo.cs) |
