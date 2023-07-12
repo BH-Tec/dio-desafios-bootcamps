@@ -189,8 +189,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Desafio | Código | SQ |
 | :-----: | :----: | :--: |
 | A Idade de Magali | [🔗](./js/IdadeMagali.js) |
-| Animal | [🔗](./js/Animal.js) |
 | Acompanhado os Pedidos | [🔗](./js/AcompanhadoPedidos.js) |
+| Animal | [🔗](./js/Animal.js) |
+| Andando No Tempo | [🔗](./js/AndandoNoTempo.js) |
 | As Duas Torres | [🔗](./js/AsDuasTorres.js) |
 | Área do Círculo | [🔗](./js/AreaCirculo.js) |
 | Arrays Pares | [🔗](./js/ArraysPares.js) |
