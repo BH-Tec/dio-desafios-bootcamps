@@ -1,4 +1,3 @@
-/* The question. */
 <h1 align="center">
   Desafios de Código | DIO
 </h1>
@@ -210,6 +209,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Coxinha de Bueno | [🔗](./js/CoxinhaDoBueno.js) |
 | Data por Extenso | [🔗](./js/DataPorExtenso.js) |
 | Deu a louca no gerente | [🔗](./js/LoucaNoGerente.js) |
+| DDD | [🔗](./js/DDD.js) |
 | DIO Delivery | [🔗](./js/DIODelivery.js) |
 | Dígitos | [🔗](./js/Digitos.js) |
 | Distância Entre Dois Pontos | [🔗](./js/DistanciaEntreDoisPontos.js) |
