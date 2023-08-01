@@ -327,6 +327,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Quantidade de Números Positivos | [🔗](./python/QuantidadeNumerosPositivos.py) |
 | Resto da Divisão | [🔗](./python/RestoDivisao.py) |
 | Tuitando | [🔗](./python/Tuitando.py) |
+| Tempo Estimado de Entrega | [🔗](./python/TempoEstimadoDeEntrega.py) |
 </details>
 
 <!-- Ruby -->
