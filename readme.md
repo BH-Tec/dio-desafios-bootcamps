@@ -322,6 +322,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Encaixa ou Não? | [🔗](./python/EncaixaOuNao.py) |
 | Ganhe uma Sobremesa Especial | [🔗](./python/GanheUmaSobremesaEspecial.py) |
 | Gerenciamento de Pedidos de Comida Online | [🔗](./python/GerenciamentodePedidosdeComidaOnline.py) |
+| Identificando Pedidos Veganos | [🔗](./python/IdentificandoPedidosVeganos.py) |
 | Mês | [🔗](./python/Mes.py) |
 | Meu Primeiro Código Python | [🔗](./trainnee-carrefour/Main.py) |
 | Número Primo | [🔗](./python/NumeroPrimo.py) |
