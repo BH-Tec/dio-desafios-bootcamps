@@ -315,6 +315,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | As Duas Torres | [🔗](./python/AsDuasTorres.py) |
 | Aproveite a Oferta | [🔗](./python/AproveiteOferta.py) |
 | Cachorros-Quentes | [🔗](./python/CachorrosQuentes.py) |
+| Calcular o Preço Final de um Pedido | [🔗](./python/CalcularPrecoFinalPedido.py) |
 | Cálculo de Viagem | [🔗](./python/CalculoViagem.py) |
 | Crescente e Decrescente | [🔗](./python/CrescenteDecrescente.py) |
 | Dragão | [🔗](./python/Dragao.py) |
