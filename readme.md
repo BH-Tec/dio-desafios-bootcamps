@@ -321,6 +321,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Dragão | [🔗](./python/Dragao.py) |
 | Encaixa ou Não? | [🔗](./python/EncaixaOuNao.py) |
 | Ganhe uma Sobremesa Especial | [🔗](./python/GanheUmaSobremesaEspecial.py) |
+| Gerenciamento de Pedidos de Comida Online | [🔗](./python/GerenciamentodePedidosdeComidaOnline.py) |
 | Mês | [🔗](./python/Mes.py) |
 | Meu Primeiro Código Python | [🔗](./trainnee-carrefour/Main.py) |
 | Número Primo | [🔗](./python/NumeroPrimo.py) |
