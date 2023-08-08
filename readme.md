@@ -181,6 +181,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |         Uma chamada recursiva         |        [🔗](./java/ChamadaRecursiva.java)        |           |
 |        Validação de Parênteses        |     [🔗](./java/ValidacaoDeParenteses.java)      |           |
 |  Validando a Força de Senhas no IAM   |      [🔗](./java/ValidandoForcaSenha.java)       | 48.20 pts |
+|     Velocidade de Download na AWS     |       [🔗](./java/VelocidadeDownload.java)       | 44.80 pts |
 |            Visita na Feira            |          [🔗](./java/VisitaFeira.java)           |           |
 
 </details>
