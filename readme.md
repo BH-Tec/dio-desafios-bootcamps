@@ -145,6 +145,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                    Média de idade                     |           [🔗](./java/MediaIdade.java)           |           |
 |                  Mesada do Sobrinho                   |        [🔗](./java/MesadaDoSobrinho.java)        |           |
 |                        Mjölnir                        |            [🔗](./java/Mjolnir.java)             |           |
+|        Monitoramento e Análise de Logs na AWS         |      [🔗](./java/MonitoramentoLogsAWS.java)      | 43.80 pts |
 |                 Mudança para Irlanda                  |         [🔗](./java/MudancaIrlanda.java)         | 43.64 pts |
 |                 Multiplicação Simples                 |      [🔗](./java/MultiplicacaoSimples.java)      |           |
 |                    Múltiplos de 13                    |         [🔗](./java/MultiplosDe13.java)          |           |
