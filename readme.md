@@ -99,6 +99,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                 Blobs                 |             [🔗](./java/Blobs.java)              |           |
 |             Bob Conduite              |          [🔗](./java/BobConduite.java)           |           |
 |           Busca Sequencial            |        [🔗](./java/BuscaSequencial.java)         |           |
+|     Calculando Seus Custos na AWS     |      [🔗](./java/CalculandoCustosAWS.java)       | 44.37 pts |
 |            Cálculo Simples            |         [🔗](./java/CalculoSimples.java)         |           |
 |    Camarote do Blue Cold Ice Cubes    |   [🔗](./java/CamaroteDoBlueColdIceCubes.java)   |           |
 |        Checagem de palíndromo         |     [🔗](./java/ChecagemDePalindromos.java)      |           |
