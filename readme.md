@@ -180,6 +180,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |               Triângulo               |           [🔗](./java/Triangulo.java)            |           |
 |         Uma chamada recursiva         |        [🔗](./java/ChamadaRecursiva.java)        |           |
 |        Validação de Parênteses        |     [🔗](./java/ValidacaoDeParenteses.java)      |           |
+|  Validando a Força de Senhas no IAM   |      [🔗](./java/ValidandoForcaSenha.java)       | 48.20 pts |
 |            Visita na Feira            |          [🔗](./java/VisitaFeira.java)           |           |
 
 </details>
