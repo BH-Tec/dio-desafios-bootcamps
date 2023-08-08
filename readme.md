@@ -86,104 +86,105 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Java</span></summary>
 
-|                Desafio                |                      Código                      |    SQ     |
-| :-----------------------------------: | :----------------------------------------------: | :-------: |
-|            A fila do banco            |          [🔗](./java/FilaDoBanco.java)           |           |
-|               A Mudança               |            [🔗](./java/Mudanca.java)             |           |
-|             Álbum da Copa             |           [🔗](./java/AlbumCopa.java)            |           |
-|                Animal                 |             [🔗](./java/Animal.java)             |           |
-|             Ano Bissexto?             |          [🔗](./java/AnoBissexto.java)           |           |
-|             Área Direita              |          [🔗](./java/AreaDireita.java)           |           |
-|            Área do Círculo            |          [🔗](./java/AreaCirculo.java)           |           |
-|             Arrays Pares              |          [🔗](./java/ArraysPares.java)           |           |
-|                 Blobs                 |             [🔗](./java/Blobs.java)              |           |
-|             Bob Conduite              |          [🔗](./java/BobConduite.java)           |           |
-|           Busca Sequencial            |        [🔗](./java/BuscaSequencial.java)         |           |
-|     Calculando Seus Custos na AWS     |      [🔗](./java/CalculandoCustosAWS.java)       | 44.37 pts |
-|            Cálculo Simples            |         [🔗](./java/CalculoSimples.java)         |           |
-|    Camarote do Blue Cold Ice Cubes    |   [🔗](./java/CamaroteDoBlueColdIceCubes.java)   |           |
-|        Checagem de palíndromo         |     [🔗](./java/ChecagemDePalindromos.java)      |           |
-|        Classificando Matrizes         |     [🔗](./java/ClassificandoMatrizes.java)      |           |
-|          Compras na Livraria          |        [🔗](./java/ComprasLivraria.java)         | 42.58 pts |
-|        Contando números pares         |      [🔗](./java/ContandoNumerosPares.java)      |           |
-|        Conta Espaços e Vogais         |          [🔗](./java/ContaValores.java)          |           |
-|           Coxinha de Bueno            |         [🔗](./java/CoxinhaDeBueno.java)         |           |
-|              DC Monalds               |           [🔗](./java/DCMonalds.java)            |           |
-|           De Quem é a Vez?            |          [🔗](./java/DeQuemEAVez.java)           |           |
-|          Degustação de Vinho          |        [🔗](./java/DegustacaoVinho.java)         |           |
-|        Deu a louca no Gerente         |          [🔗](./java/GerenteLouco.java)          |           |
-|       Descubra o menor múltiplo       |          [🔗](./java/MenorNumero.java)           |           |
-|        Diferença entre dígitos        |     [🔗](./java/DiferencaEntreDigitos.java)      |           |
-|      Distância Entre Dois Pontos      |    [🔗](./java/DistanciaEntreDoisPontos.java)    |           |
-|                Dominó                 |             [🔗](./java/Domino.java)             |           |
-|          Download de Pacotes          |       [🔗](./java/DownloadDePacotes.java)        |           |
-|                Dragão                 |             [🔗](./java/Dragao.java)             |           |
-|         Dragão Berrador World         |      [🔗](./java/DragaoBerradorWorld.java)       |           |
-|              Duas Notas               |           [🔗](./java/DuasNotas.java)            |           |
-|           Emboscada do RPG            |          [🔗](./java/EmboscadaRPG.java)          |           |
-|  Encotrando o percentual de desconto  |           [🔗](./java/Percentual.java)           |           |
-| Entrada e Saída Lendo e Pulando Nomes | [🔗](./java/EntradaSaidaLendoEPulandoNomes.java) |           |
-|                Esfera                 |             [🔗](./java/Esfera.java)             |           |
-|             Experiências              |          [🔗](./java/Experiencias.java)          |           |
-|        Exibindo Números Pares         |      [🔗](./java/ExibindoNumerosPares.java)      |           |
-|           Fábrica de Carros           |        [🔗](./java/FabricaDeCarros.java)         |           |
-|         Fatorial Desajeitado          |      [🔗](./java/FatorialDesajeitado.java)       |           |
-|               FizzBuzz                |            [🔗](./java/FizzBuzz.java)            |           |
-|            Fibonacci Fácil            |         [🔗](./java/FibonacciFacil.java)         |           |
-|       Flecha, escudo ou espada        |      [🔗](./java/FlechaEscudoOuEspada.java)      |           |
-|      Gerenciamento de Loja Geek       |     [🔗](./java/GerenciamentoLojaGeek.java)      | 43.90 pts |
-|                Idades                 |             [🔗](./java/Idades.java)             |           |
-|           Idade Planetária            |        [🔗](./java/IdadePlanetaria.java)         | 40.97 pts |
-|               Intervalo               |           [🔗](./java/Intervalo.java)            |           |
-|          Imóveis Disponíveis          |       [🔗](./java/ImoveisDisponiveis.java)       |           |
-|     Imprimindo Positivos e Média      |       [🔗](./java/ImprimindoValores.java)        |           |
-|          Industria da Multa           |        [🔗](./java/IndustriaDaMulta.java)        |           |
-|         Leitura da Gertrudes          |       [🔗](./java/LeituradaGertrudes.java)       |           |
-|            Loja de Tintas             |          [🔗](./java/LojaDeTintas.java)          |           |
-|           Lojinha de Doces            |         [🔗](./java/LojinhaDeDoces.java)         |           |
-|                Média 1                |             [🔗](./java/Media1.java)             |           |
-|            Média de idade             |           [🔗](./java/MediaIdade.java)           |           |
-|          Mesada do Sobrinho           |        [🔗](./java/MesadaDoSobrinho.java)        |           |
-|                Mjölnir                |            [🔗](./java/Mjolnir.java)             |           |
-|         Mudança para Irlanda          |         [🔗](./java/MudancaIrlanda.java)         | 43.64 pts |
-|         Multiplicação Simples         |      [🔗](./java/MultiplicacaoSimples.java)      |           |
-|            Múltiplos de 13            |         [🔗](./java/MultiplosDe13.java)          |           |
-|      Nome na Vertical da Escada       |      [🔗](./java/NomeVerticalNaEscada.java)      |           |
-|          Notação Científica           |       [🔗](./java/NotacaoCientifica.java)        |           |
-|            Notas e Moedas             |          [🔗](./java/NotasMoedas.java)           |           |
-|             Número feliz              |          [🔗](./java/NumeroFeliz.java)           |           |
-|                O Filme                |             [🔗](./java/Filme.java)              |           |
-|          O Tabuleiro Secreto          |        [🔗](./java/TabuleiroSecreto.java)        |           |
-|        Os números são iguais?         |       [🔗](./java/OsNumerosSaoIguais.java)       |           |
-|      Pedra, Papel, Ataque Aéreo       |     [🔗](./java/PedraPapelAtaqueAereo.java)      |           |
-|        Percentual de Eleitores        |     [🔗](./java/PercentualDeEleitores.java)      |           |
-|                 Pneu                  |              [🔗](./java/Pneu.java)              |           |
-|          Pontos na Carteira           |        [🔗](./java/PontosNaCarteira.java)        |           |
-|       Preenchimento de Vetor II       |      [🔗](./java/PreenchimentoDeVetor.java)      |           |
-|    Proibido a entrada de menores!     |    [🔗](./java/ProibidoEntradaDeMenores.java)    |           |
-|               Quadrante               |           [🔗](./java/Quadrante.java)            |           |
-|          Qual é o seu turno?          |          [🔗](./java/QualSeuTurno.java)          |           |
-|         Quantidade necessária         |      [🔗](./java/QuantidadeNecessaria.java)      |           |
-|          Quitanda do Seu Zé           |        [🔗](./java/QuitandaDoSeuZe.java)         |           |
-|      Reduzindo um número a zero       |      [🔗](./java/ReduzindoNumeroAZero.java)      |           |
-|          Reservatório de Mel          |       [🔗](./java/ReservatorioDeMel.java)        |           |
-|                 Robô                  |              [🔗](./java/Robo.java)              |           |
-|           Salvando Músicas            |        [🔗](./java/SalvandoMusicas.java)         |           |
-|      Seleção de Índice do Vetor       |      [🔗](./java/SelecaoIndiceDoVetor.java)      |           |
-|      Seus Primeiros Ifs com Java      |       [🔗](./trainnee-carrefour/Main.java)       |           |
-|        Soma de H com N Termos         |         [🔗](./java/SomaDeValores.java)          |           |
-|             Soma Simples              |          [🔗](./java/SomaSimples.java)           |           |
-|           Somando múltiplos           |        [🔗](./java/SomandoMultiplos.java)        |           |
-|          Taxa de Crescimento          |       [🔗](./java/TaxaDeCrescimento.java)        |           |
-|       Taxa de Imposto de Renda        |             [🔗](./java/TaxaIR.java)             |           |
-|           Tempo de Download           |        [🔗](./java/TempoDeDownload.java)         |           |
-|          Tráfego de Trânsito          |        [🔗](./java/TrafegoTransito.java)         | 41.51 pts |
-|               Triângulo               |           [🔗](./java/Triangulo.java)            |           |
-|         Uma chamada recursiva         |        [🔗](./java/ChamadaRecursiva.java)        |           |
-|        Validação de Parênteses        |     [🔗](./java/ValidacaoDeParenteses.java)      |           |
-|  Validando a Força de Senhas no IAM   |      [🔗](./java/ValidandoForcaSenha.java)       | 48.20 pts |
-|     Velocidade de Download na AWS     |       [🔗](./java/VelocidadeDownload.java)       | 44.80 pts |
-|            Visita na Feira            |          [🔗](./java/VisitaFeira.java)           |           |
+|                        Desafio                        |                      Código                      |    SQ     |
+| :---------------------------------------------------: | :----------------------------------------------: | :-------: |
+|                    A fila do banco                    |          [🔗](./java/FilaDoBanco.java)           |           |
+|                       A Mudança                       |            [🔗](./java/Mudanca.java)             |           |
+|                     Álbum da Copa                     |           [🔗](./java/AlbumCopa.java)            |           |
+|                        Animal                         |             [🔗](./java/Animal.java)             |           |
+|                     Ano Bissexto?                     |          [🔗](./java/AnoBissexto.java)           |           |
+|                     Área Direita                      |          [🔗](./java/AreaDireita.java)           |           |
+|                    Área do Círculo                    |          [🔗](./java/AreaCirculo.java)           |           |
+|                     Arrays Pares                      |          [🔗](./java/ArraysPares.java)           |           |
+|                         Blobs                         |             [🔗](./java/Blobs.java)              |           |
+|                     Bob Conduite                      |          [🔗](./java/BobConduite.java)           |           |
+|                   Busca Sequencial                    |        [🔗](./java/BuscaSequencial.java)         |           |
+|             Calculando Seus Custos na AWS             |      [🔗](./java/CalculandoCustosAWS.java)       | 44.37 pts |
+|                    Cálculo Simples                    |         [🔗](./java/CalculoSimples.java)         |           |
+|            Camarote do Blue Cold Ice Cubes            |   [🔗](./java/CamaroteDoBlueColdIceCubes.java)   |           |
+|                Checagem de palíndromo                 |     [🔗](./java/ChecagemDePalindromos.java)      |           |
+|                Classificando Matrizes                 |     [🔗](./java/ClassificandoMatrizes.java)      |           |
+|                  Compras na Livraria                  |        [🔗](./java/ComprasLivraria.java)         | 42.58 pts |
+|                Contando números pares                 |      [🔗](./java/ContandoNumerosPares.java)      |           |
+|                Conta Espaços e Vogais                 |          [🔗](./java/ContaValores.java)          |           |
+|                   Coxinha de Bueno                    |         [🔗](./java/CoxinhaDeBueno.java)         |           |
+|                      DC Monalds                       |           [🔗](./java/DCMonalds.java)            |           |
+|                   De Quem é a Vez?                    |          [🔗](./java/DeQuemEAVez.java)           |           |
+|                  Degustação de Vinho                  |        [🔗](./java/DegustacaoVinho.java)         |           |
+|                Deu a louca no Gerente                 |          [🔗](./java/GerenteLouco.java)          |           |
+|               Descubra o menor múltiplo               |          [🔗](./java/MenorNumero.java)           |           |
+|                Diferença entre dígitos                |     [🔗](./java/DiferencaEntreDigitos.java)      |           |
+|              Distância Entre Dois Pontos              |    [🔗](./java/DistanciaEntreDoisPontos.java)    |           |
+|                        Dominó                         |             [🔗](./java/Domino.java)             |           |
+|                  Download de Pacotes                  |       [🔗](./java/DownloadDePacotes.java)        |           |
+|                        Dragão                         |             [🔗](./java/Dragao.java)             |           |
+|                 Dragão Berrador World                 |      [🔗](./java/DragaoBerradorWorld.java)       |           |
+|                      Duas Notas                       |           [🔗](./java/DuasNotas.java)            |           |
+|                   Emboscada do RPG                    |          [🔗](./java/EmboscadaRPG.java)          |           |
+|          Encotrando o percentual de desconto          |           [🔗](./java/Percentual.java)           |           |
+|         Entrada e Saída Lendo e Pulando Nomes         | [🔗](./java/EntradaSaidaLendoEPulandoNomes.java) |           |
+|                        Esfera                         |             [🔗](./java/Esfera.java)             |           |
+|                     Experiências                      |          [🔗](./java/Experiencias.java)          |           |
+|                Exibindo Números Pares                 |      [🔗](./java/ExibindoNumerosPares.java)      |           |
+|                   Fábrica de Carros                   |        [🔗](./java/FabricaDeCarros.java)         |           |
+|                 Fatorial Desajeitado                  |      [🔗](./java/FatorialDesajeitado.java)       |           |
+|                       FizzBuzz                        |            [🔗](./java/FizzBuzz.java)            |           |
+|                    Fibonacci Fácil                    |         [🔗](./java/FibonacciFacil.java)         |           |
+|               Flecha, escudo ou espada                |      [🔗](./java/FlechaEscudoOuEspada.java)      |           |
+|              Gerenciamento de Loja Geek               |     [🔗](./java/GerenciamentoLojaGeek.java)      | 43.90 pts |
+|                        Idades                         |             [🔗](./java/Idades.java)             |           |
+|                   Idade Planetária                    |        [🔗](./java/IdadePlanetaria.java)         | 40.97 pts |
+|                       Intervalo                       |           [🔗](./java/Intervalo.java)            |           |
+|                  Imóveis Disponíveis                  |       [🔗](./java/ImoveisDisponiveis.java)       |           |
+|             Imprimindo Positivos e Média              |       [🔗](./java/ImprimindoValores.java)        |           |
+|                  Industria da Multa                   |        [🔗](./java/IndustriaDaMulta.java)        |           |
+|                 Leitura da Gertrudes                  |       [🔗](./java/LeituradaGertrudes.java)       |           |
+|                    Loja de Tintas                     |          [🔗](./java/LojaDeTintas.java)          |           |
+|                   Lojinha de Doces                    |         [🔗](./java/LojinhaDeDoces.java)         |           |
+|                        Média 1                        |             [🔗](./java/Media1.java)             |           |
+|                    Média de idade                     |           [🔗](./java/MediaIdade.java)           |           |
+|                  Mesada do Sobrinho                   |        [🔗](./java/MesadaDoSobrinho.java)        |           |
+|                        Mjölnir                        |            [🔗](./java/Mjolnir.java)             |           |
+|                 Mudança para Irlanda                  |         [🔗](./java/MudancaIrlanda.java)         | 43.64 pts |
+|                 Multiplicação Simples                 |      [🔗](./java/MultiplicacaoSimples.java)      |           |
+|                    Múltiplos de 13                    |         [🔗](./java/MultiplosDe13.java)          |           |
+|              Nome na Vertical da Escada               |      [🔗](./java/NomeVerticalNaEscada.java)      |           |
+|                  Notação Científica                   |       [🔗](./java/NotacaoCientifica.java)        |           |
+|                    Notas e Moedas                     |          [🔗](./java/NotasMoedas.java)           |           |
+|                     Número feliz                      |          [🔗](./java/NumeroFeliz.java)           |           |
+|                        O Filme                        |             [🔗](./java/Filme.java)              |           |
+|                  O Tabuleiro Secreto                  |        [🔗](./java/TabuleiroSecreto.java)        |           |
+|                Os números são iguais?                 |       [🔗](./java/OsNumerosSaoIguais.java)       |           |
+|              Pedra, Papel, Ataque Aéreo               |     [🔗](./java/PedraPapelAtaqueAereo.java)      |           |
+|                Percentual de Eleitores                |     [🔗](./java/PercentualDeEleitores.java)      |           |
+|                         Pneu                          |              [🔗](./java/Pneu.java)              |           |
+|                  Pontos na Carteira                   |        [🔗](./java/PontosNaCarteira.java)        |           |
+|               Preenchimento de Vetor II               |      [🔗](./java/PreenchimentoDeVetor.java)      |           |
+|            Proibido a entrada de menores!             |    [🔗](./java/ProibidoEntradaDeMenores.java)    |           |
+|                       Quadrante                       |           [🔗](./java/Quadrante.java)            |           |
+|                  Qual é o seu turno?                  |          [🔗](./java/QualSeuTurno.java)          |           |
+|                 Quantidade necessária                 |      [🔗](./java/QuantidadeNecessaria.java)      |           |
+|                  Quitanda do Seu Zé                   |        [🔗](./java/QuitandaDoSeuZe.java)         |           |
+|              Reduzindo um número a zero               |      [🔗](./java/ReduzindoNumeroAZero.java)      |           |
+| Regras para Dimensionamento de Infraestrutura com EKS |           [🔗](./java/RegrasEKS.java)            | 42.72 pts |
+|                  Reservatório de Mel                  |       [🔗](./java/ReservatorioDeMel.java)        |           |
+|                         Robô                          |              [🔗](./java/Robo.java)              |           |
+|                   Salvando Músicas                    |        [🔗](./java/SalvandoMusicas.java)         |           |
+|              Seleção de Índice do Vetor               |      [🔗](./java/SelecaoIndiceDoVetor.java)      |           |
+|              Seus Primeiros Ifs com Java              |       [🔗](./trainnee-carrefour/Main.java)       |           |
+|                Soma de H com N Termos                 |         [🔗](./java/SomaDeValores.java)          |           |
+|                     Soma Simples                      |          [🔗](./java/SomaSimples.java)           |           |
+|                   Somando múltiplos                   |        [🔗](./java/SomandoMultiplos.java)        |           |
+|                  Taxa de Crescimento                  |       [🔗](./java/TaxaDeCrescimento.java)        |           |
+|               Taxa de Imposto de Renda                |             [🔗](./java/TaxaIR.java)             |           |
+|                   Tempo de Download                   |        [🔗](./java/TempoDeDownload.java)         |           |
+|                  Tráfego de Trânsito                  |        [🔗](./java/TrafegoTransito.java)         | 41.51 pts |
+|                       Triângulo                       |           [🔗](./java/Triangulo.java)            |           |
+|                 Uma chamada recursiva                 |        [🔗](./java/ChamadaRecursiva.java)        |           |
+|                Validação de Parênteses                |     [🔗](./java/ValidacaoDeParenteses.java)      |           |
+|          Validando a Força de Senhas no IAM           |      [🔗](./java/ValidandoForcaSenha.java)       | 48.20 pts |
+|             Velocidade de Download na AWS             |       [🔗](./java/VelocidadeDownload.java)       | 44.80 pts |
+|                    Visita na Feira                    |          [🔗](./java/VisitaFeira.java)           |           |
 
 </details>
 
