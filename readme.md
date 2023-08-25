@@ -210,9 +210,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                 Cálculo Salarial                  |         [🔗](./js/CalculoSalarial.js)          |     |
 |                  Cálculo Simples                  |          [🔗](./js/CalculoSimples.js)          |     |
 | Calculando o Perímetro de um Triângulo Equilátero |       [🔗](./js/TrianguloEquilatero.js)        |     |
-|            Capturando Pokémons Iniciais           |        [🔗](./js/CapturandoPokemons.js)        |     |
+|           Capturando Pokémons Iniciais            |        [🔗](./js/CapturandoPokemons.js)        |     |
 |              Checagem de Palíndromos              |       [🔗](./js/ChecagemPalindromos.js)        |     |
-|          Coleta de Tesouros no Dungeon            |      [🔗](./js/ColetaTesourosDungeon.js)       |     |
+|           Coleta de Tesouros no Dungeon           |      [🔗](./js/ColetaTesourosDungeon.js)       |     |
+|           Combinando Nomes de Pokémons            |        [🔗](./js/CombinandoPokemons.js)        |     |
 |                Comparando Pedidos                 |        [🔗](./js/ComparandoPedidos.js)         |     |
 |              Conta Espaços e Vogais               |        [🔗](./js/ContaEspacoVogais.js)         |     |
 |          Contagem de Partidas no Torneio          |     [🔗](./js/ContagemPartidasTorneio.js)      |     |
@@ -249,7 +250,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |           Identificando Pedidos Veganos           |   [🔗](./js/IdentificandoPedidosVeganos.js)    |     |
 |                Ímpar, Par ou Roubo                |          [🔗](./js/ImparParRoubo.js)           |     |
 |                Inteiro ou Decimal?                |         [🔗](./js/InteiroOuDecimal.js)         |     |
-|                  Jornada do Herói                 |           [🔗](./js/JornadaHeroi.js)           |     |
+|                 Jornada do Herói                  |           [🔗](./js/JornadaHeroi.js)           |     |
 |        Maior Valor Par e Menor Valor Ímpar        |   [🔗](./js/MaiorValorParMenorValorImpar.js)   |     |
 |                Matriz Par e Impar                 |         [🔗](./js/MatrizParOuImpar.js)         |     |
 |                      Média 1                      |              [🔗](./js/Media1.js)              |     |
