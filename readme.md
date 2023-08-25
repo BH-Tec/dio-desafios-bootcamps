@@ -212,6 +212,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Calculando o Perímetro de um Triângulo Equilátero |       [🔗](./js/TrianguloEquilatero.js)        |     |
 |            Capturando Pokémons Iniciais           |        [🔗](./js/CapturandoPokemons.js)        |     |
 |              Checagem de Palíndromos              |       [🔗](./js/ChecagemPalindromos.js)        |     |
+|          Coleta de Tesouros no Dungeon            |      [🔗](./js/ColetaTesourosDungeon.js)       |     |
 |                Comparando Pedidos                 |        [🔗](./js/ComparandoPedidos.js)         |     |
 |              Conta Espaços e Vogais               |        [🔗](./js/ContaEspacoVogais.js)         |     |
 |          Contagem de Partidas no Torneio          |     [🔗](./js/ContagemPartidasTorneio.js)      |     |
