@@ -246,6 +246,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |           Identificando Pedidos Veganos           |   [🔗](./js/IdentificandoPedidosVeganos.js)    |     |
 |                Ímpar, Par ou Roubo                |          [🔗](./js/ImparParRoubo.js)           |     |
 |                Inteiro ou Decimal?                |         [🔗](./js/InteiroOuDecimal.js)         |     |
+|                  Jornada do Herói                 |           [🔗](./js/JornadaHeroi.js)           |     |
 |        Maior Valor Par e Menor Valor Ímpar        |   [🔗](./js/MaiorValorParMenorValorImpar.js)   |     |
 |                Matriz Par e Impar                 |         [🔗](./js/MatrizParOuImpar.js)         |     |
 |                      Média 1                      |              [🔗](./js/Media1.js)              |     |
