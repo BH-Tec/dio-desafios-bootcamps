@@ -210,6 +210,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                 Cálculo Salarial                  |         [🔗](./js/CalculoSalarial.js)          |     |
 |                  Cálculo Simples                  |          [🔗](./js/CalculoSimples.js)          |     |
 | Calculando o Perímetro de um Triângulo Equilátero |       [🔗](./js/TrianguloEquilatero.js)        |     |
+|            Capturando Pokémons Iniciais           |        [🔗](./js/CapturandoPokemons.js)        |     |
 |              Checagem de Palíndromos              |       [🔗](./js/ChecagemPalindromos.js)        |     |
 |                Comparando Pedidos                 |        [🔗](./js/ComparandoPedidos.js)         |     |
 |              Conta Espaços e Vogais               |        [🔗](./js/ContaEspacoVogais.js)         |     |
@@ -259,7 +260,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                     Patinhos                      |             [🔗](./js/Patinhos.js)             |     |
 |            Pedra, Papel, Ataque Aéreo             |      [🔗](./js/PedraPapelAtaqueAereo.js)       |     |
 |                  Pink e Cérebro                   |           [🔗](./js/PinkCerebro.js)            |     |
-|    Pontos de Experiência    |       [🔗](./js/PontosXP.js)       |     |
+|               Pontos de Experiência               |             [🔗](./js/PontosXP.js)             |     |
 |    Porcentagem de diferença entre dois números    |       [🔗](./js/PorcentagemDiferenca.js)       |     |
 |             Preenchimento de Vetor I              |        [🔗](./js/PreencimentoVetorI.js)        |     |
 |                Quadrado e ao Cubo                 |           [🔗](./js/QuadradoCubo.js)           |     |
