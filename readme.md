@@ -196,6 +196,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                      Desafio                      |                     Código                     | SQ  |
 | :-----------------------------------------------: | :--------------------------------------------: | :-: |
 |                 A Idade de Magali                 |           [🔗](./js/IdadeMagali.js)            |     |
+|                A Jornada do Herói                 |          [🔗](./js/JornadaDoHeroi.js)          |     |
 |              Acompanhado os Pedidos               |        [🔗](./js/AcompanhadoPedidos.js)        |     |
 |                      Animal                       |              [🔗](./js/Animal.js)              |     |
 |                 Andando No Tempo                  |          [🔗](./js/AndandoNoTempo.js)          |     |
