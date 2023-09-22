@@ -197,7 +197,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-----------------------------------------------: | :--------------------------------------------: | :-: |
 |                 A Idade de Magali                 |           [🔗](./js/IdadeMagali.js)            |     |
 |                A Jornada do Herói                 |          [🔗](./js/JornadaDoHeroi.js)          |     |
-|  Academia de Magia: Aprenda a usar seus poderes   |        [🔗](./js/AcademiaMagia.js)        |     |
+|  Academia de Magia: Aprenda a usar seus poderes   |          [🔗](./js/AcademiaMagia.js)           |     |
 |              Acompanhado os Pedidos               |        [🔗](./js/AcompanhadoPedidos.js)        |     |
 |                      Animal                       |              [🔗](./js/Animal.js)              |     |
 |                 Andando No Tempo                  |          [🔗](./js/AndandoNoTempo.js)          |     |
@@ -286,6 +286,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |                   Tempo de Jogo                   |           [🔗](./js/TempoDeJogo.js)            |     |
 |             Tempo Estimado de Entrega             |       [🔗](./js/TempoEstimadoEntrega.js)       |     |
 |           Teorema da Divisão Euclidiana           |        [🔗](./js/TeoremaEuclidiana.js)         |     |
+|                Tomadas de Decisão!                |        [🔗](./js/TomadaDecisao.js)         |     |
 |                Triângulo de Moedas                |        [🔗](./js/TrianguloDeMoedas.js)         |     |
 |                      Tri-Du                       |              [🔗](./js/Tri-Du.js)              |     |
 |                     Tuitando                      |             [🔗](./js/Tuitando.js)             |     |
