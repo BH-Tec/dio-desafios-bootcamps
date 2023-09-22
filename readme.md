@@ -214,6 +214,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |           Capturando Pokémons Iniciais            |        [🔗](./js/CapturandoPokemons.js)        |     |
 |              Checagem de Palíndromos              |       [🔗](./js/ChecagemPalindromos.js)        |     |
 |           Coleta de Tesouros no Dungeon           |      [🔗](./js/ColetaTesourosDungeon.js)       |     |
+|               Combatendo Monstros!                |        [🔗](./js/CombatendoMonstros.js)        |     |
 |           Combinando Nomes de Pokémons            |        [🔗](./js/CombinandoPokemons.js)        |     |
 |                Comparando Pedidos                 |        [🔗](./js/ComparandoPedidos.js)         |     |
 |              Conta Espaços e Vogais               |        [🔗](./js/ContaEspacoVogais.js)         |     |
