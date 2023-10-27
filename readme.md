@@ -90,6 +90,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :---------------------------------------------------: | :----------------------------------------------: | :-------: |
 |                    A fila do banco                    |          [🔗](./java/FilaDoBanco.java)           |           |
 |                       A Mudança                       |            [🔗](./java/Mudanca.java)             |           |
+|                    Abrindo Contas                     |         [🔗](./java/AbrindoContas.java)          |           |
 |                     Álbum da Copa                     |           [🔗](./java/AlbumCopa.java)            |           |
 |                        Animal                         |             [🔗](./java/Animal.java)             |           |
 |                     Ano Bissexto?                     |          [🔗](./java/AnoBissexto.java)           |           |
