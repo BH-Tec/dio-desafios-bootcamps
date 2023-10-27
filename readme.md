@@ -372,14 +372,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <details>
 <summary><span>Ruby</span></summary>
 
-|                        Desafio                        |                Código                 | SQ  |
-| :---------------------------------------------------: | :-----------------------------------: | :-: |
-|                    Abrindo Contas                     |    [🔗](./dart/AbrindoContas.dart)    |     |
-|  Condicionalmente Rico: Tomadas de Decisão no Código  |  [🔗](./dart/TomadasDeDecisao.dart)   |     |
-|    Estrutura de Dados: Organizando Os Seus Ativos     |  [🔗](./dart/OrganizandoAtivos.dart)  |     |
-| Herança Bancária: Entendendo a Herança e Polimorfismo | [🔗](./dart/HerancaPolimorfismo.dart) |     |
-|                    Juros Compostos                    |   [🔗](./dart/JurosCompostos.dart)    |     |
-| O Grande Depósito - Solucionando Problemas Bancários  | [🔗](./dart/ProblemasBancarios.dart)  |     |
-|        Variáveis em Ação: Equilibrando o Saldo        |  [🔗](./dart/EquilibrandoSaldo.dart)  |     |
+|                        Desafio                         |                  Código                   | SQ  |
+| :----------------------------------------------------: | :---------------------------------------: | :-: |
+|                     Abrindo Contas                     |      [🔗](./dart/AbrindoContas.dart)      |     |
+| Cofres Seguros: Dominando o Encapsulamento e Abstração | [🔗](./dart/EncapsulamentoAbstracao.dart) |     |
+|  Condicionalmente Rico: Tomadas de Decisão no Código   |    [🔗](./dart/TomadasDeDecisao.dart)     |     |
+|     Estrutura de Dados: Organizando Os Seus Ativos     |    [🔗](./dart/OrganizandoAtivos.dart)    |     |
+| Herança Bancária: Entendendo a Herança e Polimorfismo  |   [🔗](./dart/HerancaPolimorfismo.dart)   |     |
+|                    Juros Compostos                     |     [🔗](./dart/JurosCompostos.dart)      |     |
+|  O Grande Depósito - Solucionando Problemas Bancários  |   [🔗](./dart/ProblemasBancarios.dart)    |     |
+|        Variáveis em Ação: Equilibrando o Saldo         |    [🔗](./dart/EquilibrandoSaldo.dart)    |     |
 
 </details>
