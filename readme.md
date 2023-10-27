@@ -376,5 +376,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | :-------------------: | :------------------------------: | :-: |
 | Variáveis em Ação: Equilibrando o Saldo | [🔗](./dart/EquilibrandoSaldo.dart) |     |
 | Estrutura de Dados: Organizando Os Seus Ativos | [🔗](./dart/OrganizandoAtivos.dart) |     |
+| Condicionalmente Rico: Tomadas de Decisão no Código | [🔗](./dart/TomadasDeDecisao.dart) |     |
 
 </details>
