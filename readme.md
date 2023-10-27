@@ -381,6 +381,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Herança Bancária: Entendendo a Herança e Polimorfismo  |   [🔗](./dart/HerancaPolimorfismo.dart)   |     |
 |                    Juros Compostos                     |     [🔗](./dart/JurosCompostos.dart)      |     |
 |  O Grande Depósito - Solucionando Problemas Bancários  |   [🔗](./dart/ProblemasBancarios.dart)    |     |
+| Reunião de Acionistas: Consultando Análises Bancárias  |    [🔗](./dart/AnalisesBancarias.dart)    |     |
 |        Variáveis em Ação: Equilibrando o Saldo         |    [🔗](./dart/EquilibrandoSaldo.dart)    |     |
 
 </details>
