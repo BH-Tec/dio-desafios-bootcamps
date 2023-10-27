@@ -374,6 +374,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 |                        Desafio                         |                  Código                   | SQ  |
 | :----------------------------------------------------: | :---------------------------------------: | :-: |
+| A Última Transação: Transformando Registros Bancários  |   [🔗](./dart/RegistrosBancarios.dart)    |     |
 |                     Abrindo Contas                     |      [🔗](./dart/AbrindoContas.dart)      |     |
 | Cofres Seguros: Dominando o Encapsulamento e Abstração | [🔗](./dart/EncapsulamentoAbstracao.dart) |     |
 |  Condicionalmente Rico: Tomadas de Decisão no Código   |    [🔗](./dart/TomadasDeDecisao.dart)     |     |
