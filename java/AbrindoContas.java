@@ -37,7 +37,7 @@
 
 import java.util.Scanner;
 
-public class Desafio {
+public class AbrindoContas {
 
   public static void main(String[] args) {
     // Lendo os dados de Entrada:
