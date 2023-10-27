@@ -367,3 +367,13 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |   Temperatura Amena   | [🔗](./ruby/TemperaturaAmena.ru) |     |
 
 </details>
+
+<!-- Dart -->
+<details>
+<summary><span>Ruby</span></summary>
+
+|        Desafio        |              Código              | SQ  |
+| :-------------------: | :------------------------------: | :-: |
+| Variáveis em Ação: Equilibrando o Saldo | [🔗](./dart/EquilibrandoSaldo.dart) |     |
+
+</details>
