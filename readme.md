@@ -378,5 +378,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 | Estrutura de Dados: Organizando Os Seus Ativos | [🔗](./dart/OrganizandoAtivos.dart) |     |
 | Condicionalmente Rico: Tomadas de Decisão no Código | [🔗](./dart/TomadasDeDecisao.dart) |     |
 | Juros Compostos | [🔗](./dart/JurosCompostos.dart) |     |
+| O Grande Depósito - Solucionando Problemas Bancários | [🔗](./dart/ProblemasBancarios.dart) |     |
 
 </details>
