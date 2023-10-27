@@ -375,5 +375,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |        Desafio        |              Código              | SQ  |
 | :-------------------: | :------------------------------: | :-: |
 | Variáveis em Ação: Equilibrando o Saldo | [🔗](./dart/EquilibrandoSaldo.dart) |     |
+| Estrutura de Dados: Organizando Os Seus Ativos | [🔗](./dart/OrganizandoAtivos.dart) |     |
 
 </details>
