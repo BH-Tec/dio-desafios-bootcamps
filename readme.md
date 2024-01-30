@@ -371,7 +371,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!-- Dart -->
 <details>
-<summary><span>Ruby</span></summary>
+<summary><span>Dart</span></summary>
 
 |                        Desafio                         |                  Código                   | SQ  |
 | :----------------------------------------------------: | :---------------------------------------: | :-: |
@@ -385,5 +385,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 |  O Grande Depósito - Solucionando Problemas Bancários  |   [🔗](./dart/ProblemasBancarios.dart)    |     |
 | Reunião de Acionistas: Consultando Análises Bancárias  |    [🔗](./dart/AnalisesBancarias.dart)    |     |
 |        Variáveis em Ação: Equilibrando o Saldo         |    [🔗](./dart/EquilibrandoSaldo.dart)    |     |
+
+</details>
+
+<!-- Lua -->
+<details>
+<summary><span>Lua</span></summary>
+
+| Desafio |        Código        | SQ  |
+| :-----: | :------------------: | :-: |
+|  Nome   | [🔗](./lua/Nome.lua) |     |
 
 </details>
